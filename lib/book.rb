@@ -4,9 +4,9 @@ class Book
     @title = title
   end
   attr_accessor :title, :author, :page_count, :genre
-  def title
-    @title
-  end
+  # def title
+  #   @title
+  # end
   # def author=(author)
   #   @author = author
   # end
