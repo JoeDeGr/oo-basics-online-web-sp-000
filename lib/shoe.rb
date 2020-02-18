@@ -10,7 +10,7 @@ class Shoe
     puts "Your shoe is as good as new!"
     @condition = "new"
   end
-
+end
   # def color=(color)
   #   @color=color
   # end
@@ -34,4 +34,4 @@ class Shoe
   # end
   # def condition
   # end
-end
+
